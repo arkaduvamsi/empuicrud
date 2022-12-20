@@ -1,0 +1,8 @@
+{
+    "employeeData": {
+        "getAll": "https://studentdemo-vamsi-arkadu-2-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/api/v1/studentData",
+        "post": "https://studentdemo-vamsi-arkadu-2-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/api/v1/studentData",
+        "put": "https://studentdemo-vamsi-arkadu-2-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/api/v1/studentData",
+        "delete": "https://studentdemo-vamsi-arkadu-2-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/api/v1/studentData"
+    }
+}
